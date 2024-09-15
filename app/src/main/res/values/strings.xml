@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Happiness</string>
+    <string name="star_description">Puntuación con estrellas</string>
+</resources>
